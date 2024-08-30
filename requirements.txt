@@ -37,3 +37,4 @@ pysqlite3-binary
 gTTS
 streamlit-mic-recorder
 tinify
+cloudscraper
